@@ -1,7 +1,12 @@
 # Write a speak_to_grandma method.
 
+if speak_to_grandma === "phrase".downcase
+  puts "UH?! SPEAK UP, SONNY!"
+elsif speak_to_grandma === "phrase".upcase
+puts " "
+  
 # Whatever you say to grandma, she should respond with
-# HUH?! SPEAK UP, SONNY!
+# H
 # unless you shout it (type in all capitals).
 
 # If you shout, she can hear you (or at least she thinks so) 
